@@ -1,0 +1,6 @@
+numpy>=1.23
+robosuite>=1.5.0,<1.6
+scipy
+transformers
+torch
+Pillow
